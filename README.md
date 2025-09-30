@@ -33,7 +33,6 @@ The app can **scrape statements from PolitiFact**, allow CSV uploads of pre-coll
 
 - **Caching**
   - Scraped data is cached to reduce repeated requests and speed up the app.
- 
-  - 
 ---
+
 
